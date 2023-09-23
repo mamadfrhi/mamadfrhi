@@ -1,6 +1,6 @@
 - 👋 Hi, I’m iMamad 
 - 👀 I’m interested in Codes🧑🏻‍💻, Travel🚘, Cycling🚴🏼‍♂️ and Coffee☕️
-- 🌱 I’m currently deepening into SwiftUI!
+- 🌱 I’m currently deepening into AI and SwiftUI!
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me? mamad.frhi@gmail.com
 
